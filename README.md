@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning how to implement event driven architectures on AWS and GraphQL Federation
+- ⚡ Favorite Technologies: React, GraphQL, Java, Typescript
 <!--
 **twcardenas/twcardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
